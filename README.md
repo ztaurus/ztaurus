@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">Welocome to ztaurus'github!:clap:</h3>
+<h1 align="center">Welocome to ztaurus'github!:clap:</h1>
 
