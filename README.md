@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p style="text-align:center">
-  <h3>Welocome to ztaurus'github!:clap:</h3>
-</p>
+
+<h3 align="center">Welocome to ztaurus'github!:clap:</h3>
+
